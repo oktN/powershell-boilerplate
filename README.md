@@ -8,7 +8,11 @@ In order to test your scripts, you have to place them in ./script or start codin
 We provide a `Makefile` that can perform these actions:
 
 To build our docker image and run our tests inside the container, run:
-```make test```
+```
+make test
+```
 
 To use the linter, run:
-```make linter```
+```
+make linter
+```
