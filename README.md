@@ -19,5 +19,7 @@ make linter
 
 ## Tools used
 [Powershell Docker Image](https://hub.docker.com/r/microsoft/powershell/)
+
 [Pester](https://github.com/Pester/Pester/)
+
 [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer/)
