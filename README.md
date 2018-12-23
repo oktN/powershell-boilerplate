@@ -1,4 +1,4 @@
-# Boilerplate for TDD projects with Powershell over Docker
+# Boilerplate for TDD projects with Powershell
 A boilerplate for Powershell projects with TDD, it also have a linter to check best practices in the scripts.
 
 ## Where to put your scripts?
@@ -16,3 +16,8 @@ To use the linter, run:
 ```
 make linter
 ```
+
+## Tools used
+[Powershell Docker Image](https://hub.docker.com/r/microsoft/powershell/)
+[Pester](https://github.com/Pester/Pester/)
+[PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer/)
